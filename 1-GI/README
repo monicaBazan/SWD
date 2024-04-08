@@ -1,0 +1,2 @@
+You need to download the file gene_info.gz in the same directory as the gene_analyzer.py in order to work
+Make sure you install the pandas library
